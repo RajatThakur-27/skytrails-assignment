@@ -1,0 +1,71 @@
+.write{
+    width: 33vw;
+    height: fit-content;
+    background-color: white;
+    margin-left: 15vw;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+}
+
+.textarea{
+    width: 23vw;
+    padding: 3px;
+    margin: 5px;
+}
+
+.button{
+    background-color: #3f29e5;
+    border-radius: 10%;
+    margin: 8px;
+}
+
+.blog{
+    width: 80vw;
+    background-color: whitesmoke;
+    margin-left: 10vw;
+    margin-top: 10px;
+    padding: 2px;
+}
+
+.headingg{
+    border-radius: 10px;
+    font-size: 6vh;
+    font-weight: bolder;
+    margin-left: 10px;
+    color: #7d7f06;
+    /* text-align: center; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.single-blog{
+    background-color: #d6caca;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 8px;
+}
+
+.blog-title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.blog-details{
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.name{
+    color: red;
+    font-weight: 600;
+}
+
+.likes{
+    background-color: #9af79a;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 15%;
+    font-weight: 600;
+    font-style: oblique;
+    width: fit-content;
+}
